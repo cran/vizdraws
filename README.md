@@ -1,9 +1,14 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
+
 vizdraws
 ========
 
 **vizdraws** creates interactive visualizations using draws from a prior
 and posterior distributions.
+
+[![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/vizdraws?color=blue)](https://cran.r-project.org/package=vizdraws)
+[![Downloads](https://cranlogs.r-pkg.org/badges/vizdraws?color=blue)](https://cran.r-project.org/package=vizdraws)
+[![Downloads\_grand-total](https://cranlogs.r-pkg.org/badges/grand-total/vizdraws?color=blue)](https://cran.r-project.org/package=vizdraws)
 
 Installation
 ------------
@@ -31,7 +36,7 @@ set.seed(9782)
 vizdraws(prior = rnorm(10000, 0, 1), posterior = rnorm(10000, 1.1, 0.5), MME = 0.5, threshold = 0.8)
 ```
 
-![](https://home.ignacio.website/Posterior.gif)
+![](https://ignacio.martinez.fyi/Posterior.gif)
 
 ### Notes
 

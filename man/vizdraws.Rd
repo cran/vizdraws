@@ -11,6 +11,7 @@ vizdraws(
   threshold = NULL,
   units = NULL,
   quantity = FALSE,
+  tense = c("future", "past"),
   xlab = NULL,
   breaks = NULL,
   break_names = NULL,
@@ -22,6 +23,7 @@ vizdraws(
   display_mode_name = FALSE,
   title = "",
   stop_trans = FALSE,
+  percentage = FALSE,
   elementId = NULL
 )
 }
@@ -37,6 +39,8 @@ vizdraws(
 \item{units}{optional argument to specify the units of x. For example, dollars or applications}
 
 \item{quantity}{defaults to \code{FALSE}. When set to true text will change to reflect that you are predicting a quantity rather than a treatment effect}
+
+\item{tense}{either "future" or "past". This is the tense that it will be use in the description if quantity is set to TRUE. \code{NULL}}
 
 \item{xlab}{defaults to \code{NULL}}
 
@@ -59,6 +63,8 @@ vizdraws(
 \item{title}{defaults to \code{''}}
 
 \item{stop_trans}{defaults to \code{FALSE}. When set to true, initial transition stops at posterior density.}
+
+\item{percentage}{defaults to \code{FALSE}. When set to true, the x axis tick format will be set to percentage.}
 
 \item{elementId}{Use an explicit element ID for the widget
 (rather than an automatically generated one).elementID for shiny}
