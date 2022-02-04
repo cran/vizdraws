@@ -1,12 +1,12 @@
-014afba26aab510e98d3d4279ec04997 *DESCRIPTION
+d32944a73786a2dd69ef77f0719637b4 *DESCRIPTION
 94a2c39cdebc06aeb93cf7b4193ceae9 *NAMESPACE
-e5da1dac3174de0f032f455776d6bff9 *NEWS.md
+5b532e5be113b5f3fa96c5aa13887685 *NEWS.md
 b1a6f986e465850db24edc3739e7e1c4 *R/dataframeToD3.R
 65833d4f83c0f88bd0bb83bfa2c40aa4 *R/globals.R
 63cb7f30f115be79e356f1225e6c4f00 *R/parse_prior.R
 8d2487dbf45064f33b08e5a80830b68e *R/utils-pipe.R
 8b7d13a0b24ff4512016d1dc99e3841c *R/vizdraws.R
-b0033d00a149849115a3959c9c542bf1 *README.md
+b9670f9b0e90ef5260e33e231f31b3c1 *README.md
 278dbf81ff3cc647a73a21b3180000a3 *build/vignette.rds
 7127616c84213061995301972e33f8e9 *inst/CITATION
 15c2e645824bb85353d7dfbe4b819747 *inst/doc/introduction.R
@@ -21,7 +21,7 @@ ba89d88d0186bf91e2ecbb085b9e61e7 *inst/htmlwidgets/lib/D3/style.css
 4200d1eab42b9f09c7df7c9cb648f1f6 *inst/htmlwidgets/lib/d3-tip/d3-tip.min.js
 4eb3502c30f2b729dd25f7908c71131f *inst/htmlwidgets/lib/d3-tip/style.css
 220afd743d9e9643852e31a135a9f3ae *inst/htmlwidgets/lib/jquery/jquery-3.4.1.min.js
-1f9b60e4bb8bd5e73908b7aae1a5b157 *inst/htmlwidgets/lib/vizdraws/vizdraws-general.js
+b612ca7734f7d740792f13707105919a *inst/htmlwidgets/lib/vizdraws/vizdraws-general.js
 ac1e04fa4400ff4e61052d576363119b *inst/htmlwidgets/vizdraws.js
 d808eafc5d9e169009c9df6794b518d9 *inst/htmlwidgets/vizdraws.yaml
 1f7896a1b866ff9ae89ba35be7c7b6f1 *man/pipe.Rd
