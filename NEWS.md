@@ -1,3 +1,8 @@
+# vizdraws 1.3
+
+* Added a background color and opacity arguments.
+* Fixes resize method.
+
 # vizdraws 1.2
 
 * Added a download button to the top left corner.
