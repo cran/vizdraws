@@ -1,3 +1,9 @@
+# vizdraws 1.4.2
+
+# vizdraws 1.4.1
+
+# vizdraws 1.4.0
+
 # vizdraws 1.3
 
 * Added a background color and opacity arguments.
